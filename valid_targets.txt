@@ -4,4 +4,5 @@
  * Commercial use requires license.
  * Contact: Fordamboy1@gmail.com
  */
-console.log('This would be the main JS file.');
+./javascripts/main.js
+./valid_targets.txt
